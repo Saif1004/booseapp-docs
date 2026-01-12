@@ -1,0 +1,1572 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Booseapp
+  name: Booseapp
+  href: api/Booseapp.html
+  commentId: N:Booseapp
+  fullName: Booseapp
+  nameWithType: Booseapp
+- uid: Booseapp.AppCanvas
+  name: AppCanvas
+  href: api/Booseapp.AppCanvas.html
+  commentId: T:Booseapp.AppCanvas
+  fullName: Booseapp.AppCanvas
+  nameWithType: AppCanvas
+- uid: Booseapp.AppCanvas.#ctor(System.Int32,System.Int32)
+  name: AppCanvas(int, int)
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas__ctor_System_Int32_System_Int32_
+  commentId: M:Booseapp.AppCanvas.#ctor(System.Int32,System.Int32)
+  name.vb: New(Integer, Integer)
+  fullName: Booseapp.AppCanvas.AppCanvas(int, int)
+  fullName.vb: Booseapp.AppCanvas.New(Integer, Integer)
+  nameWithType: AppCanvas.AppCanvas(int, int)
+  nameWithType.vb: AppCanvas.New(Integer, Integer)
+- uid: Booseapp.AppCanvas.#ctor*
+  name: AppCanvas
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas__ctor_
+  commentId: Overload:Booseapp.AppCanvas.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.AppCanvas.AppCanvas
+  fullName.vb: Booseapp.AppCanvas.New
+  nameWithType: AppCanvas.AppCanvas
+  nameWithType.vb: AppCanvas.New
+- uid: Booseapp.AppCanvas.Circle(System.Int32,System.Boolean)
+  name: Circle(int, bool)
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Circle_System_Int32_System_Boolean_
+  commentId: M:Booseapp.AppCanvas.Circle(System.Int32,System.Boolean)
+  name.vb: Circle(Integer, Boolean)
+  fullName: Booseapp.AppCanvas.Circle(int, bool)
+  fullName.vb: Booseapp.AppCanvas.Circle(Integer, Boolean)
+  nameWithType: AppCanvas.Circle(int, bool)
+  nameWithType.vb: AppCanvas.Circle(Integer, Boolean)
+- uid: Booseapp.AppCanvas.Circle*
+  name: Circle
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Circle_
+  commentId: Overload:Booseapp.AppCanvas.Circle
+  isSpec: "True"
+  fullName: Booseapp.AppCanvas.Circle
+  nameWithType: AppCanvas.Circle
+- uid: Booseapp.AppCanvas.Clear
+  name: Clear()
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Clear
+  commentId: M:Booseapp.AppCanvas.Clear
+  fullName: Booseapp.AppCanvas.Clear()
+  nameWithType: AppCanvas.Clear()
+- uid: Booseapp.AppCanvas.Clear*
+  name: Clear
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Clear_
+  commentId: Overload:Booseapp.AppCanvas.Clear
+  isSpec: "True"
+  fullName: Booseapp.AppCanvas.Clear
+  nameWithType: AppCanvas.Clear
+- uid: Booseapp.AppCanvas.DrawTo(System.Int32,System.Int32)
+  name: DrawTo(int, int)
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_DrawTo_System_Int32_System_Int32_
+  commentId: M:Booseapp.AppCanvas.DrawTo(System.Int32,System.Int32)
+  name.vb: DrawTo(Integer, Integer)
+  fullName: Booseapp.AppCanvas.DrawTo(int, int)
+  fullName.vb: Booseapp.AppCanvas.DrawTo(Integer, Integer)
+  nameWithType: AppCanvas.DrawTo(int, int)
+  nameWithType.vb: AppCanvas.DrawTo(Integer, Integer)
+- uid: Booseapp.AppCanvas.DrawTo*
+  name: DrawTo
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_DrawTo_
+  commentId: Overload:Booseapp.AppCanvas.DrawTo
+  isSpec: "True"
+  fullName: Booseapp.AppCanvas.DrawTo
+  nameWithType: AppCanvas.DrawTo
+- uid: Booseapp.AppCanvas.GetBitmap
+  name: GetBitmap()
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_GetBitmap
+  commentId: M:Booseapp.AppCanvas.GetBitmap
+  fullName: Booseapp.AppCanvas.GetBitmap()
+  nameWithType: AppCanvas.GetBitmap()
+- uid: Booseapp.AppCanvas.GetBitmap*
+  name: GetBitmap
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_GetBitmap_
+  commentId: Overload:Booseapp.AppCanvas.GetBitmap
+  isSpec: "True"
+  fullName: Booseapp.AppCanvas.GetBitmap
+  nameWithType: AppCanvas.GetBitmap
+- uid: Booseapp.AppCanvas.MoveTo(System.Int32,System.Int32)
+  name: MoveTo(int, int)
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_MoveTo_System_Int32_System_Int32_
+  commentId: M:Booseapp.AppCanvas.MoveTo(System.Int32,System.Int32)
+  name.vb: MoveTo(Integer, Integer)
+  fullName: Booseapp.AppCanvas.MoveTo(int, int)
+  fullName.vb: Booseapp.AppCanvas.MoveTo(Integer, Integer)
+  nameWithType: AppCanvas.MoveTo(int, int)
+  nameWithType.vb: AppCanvas.MoveTo(Integer, Integer)
+- uid: Booseapp.AppCanvas.MoveTo*
+  name: MoveTo
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_MoveTo_
+  commentId: Overload:Booseapp.AppCanvas.MoveTo
+  isSpec: "True"
+  fullName: Booseapp.AppCanvas.MoveTo
+  nameWithType: AppCanvas.MoveTo
+- uid: Booseapp.AppCanvas.PenColour
+  name: PenColour
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_PenColour
+  commentId: P:Booseapp.AppCanvas.PenColour
+  fullName: Booseapp.AppCanvas.PenColour
+  nameWithType: AppCanvas.PenColour
+- uid: Booseapp.AppCanvas.PenColour*
+  name: PenColour
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_PenColour_
+  commentId: Overload:Booseapp.AppCanvas.PenColour
+  isSpec: "True"
+  fullName: Booseapp.AppCanvas.PenColour
+  nameWithType: AppCanvas.PenColour
+- uid: Booseapp.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name: Rect(int, int, bool)
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Rect_System_Int32_System_Int32_System_Boolean_
+  commentId: M:Booseapp.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name.vb: Rect(Integer, Integer, Boolean)
+  fullName: Booseapp.AppCanvas.Rect(int, int, bool)
+  fullName.vb: Booseapp.AppCanvas.Rect(Integer, Integer, Boolean)
+  nameWithType: AppCanvas.Rect(int, int, bool)
+  nameWithType.vb: AppCanvas.Rect(Integer, Integer, Boolean)
+- uid: Booseapp.AppCanvas.Rect*
+  name: Rect
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Rect_
+  commentId: Overload:Booseapp.AppCanvas.Rect
+  isSpec: "True"
+  fullName: Booseapp.AppCanvas.Rect
+  nameWithType: AppCanvas.Rect
+- uid: Booseapp.AppCanvas.Reset
+  name: Reset()
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Reset
+  commentId: M:Booseapp.AppCanvas.Reset
+  fullName: Booseapp.AppCanvas.Reset()
+  nameWithType: AppCanvas.Reset()
+- uid: Booseapp.AppCanvas.Reset*
+  name: Reset
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Reset_
+  commentId: Overload:Booseapp.AppCanvas.Reset
+  isSpec: "True"
+  fullName: Booseapp.AppCanvas.Reset
+  nameWithType: AppCanvas.Reset
+- uid: Booseapp.AppCanvas.Set(System.Int32,System.Int32)
+  name: Set(int, int)
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Set_System_Int32_System_Int32_
+  commentId: M:Booseapp.AppCanvas.Set(System.Int32,System.Int32)
+  name.vb: Set(Integer, Integer)
+  fullName: Booseapp.AppCanvas.Set(int, int)
+  fullName.vb: Booseapp.AppCanvas.Set(Integer, Integer)
+  nameWithType: AppCanvas.Set(int, int)
+  nameWithType.vb: AppCanvas.Set(Integer, Integer)
+- uid: Booseapp.AppCanvas.Set*
+  name: Set
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Set_
+  commentId: Overload:Booseapp.AppCanvas.Set
+  isSpec: "True"
+  fullName: Booseapp.AppCanvas.Set
+  nameWithType: AppCanvas.Set
+- uid: Booseapp.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name: SetColour(int, int, int)
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_SetColour_System_Int32_System_Int32_System_Int32_
+  commentId: M:Booseapp.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name.vb: SetColour(Integer, Integer, Integer)
+  fullName: Booseapp.AppCanvas.SetColour(int, int, int)
+  fullName.vb: Booseapp.AppCanvas.SetColour(Integer, Integer, Integer)
+  nameWithType: AppCanvas.SetColour(int, int, int)
+  nameWithType.vb: AppCanvas.SetColour(Integer, Integer, Integer)
+- uid: Booseapp.AppCanvas.SetColour*
+  name: SetColour
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_SetColour_
+  commentId: Overload:Booseapp.AppCanvas.SetColour
+  isSpec: "True"
+  fullName: Booseapp.AppCanvas.SetColour
+  nameWithType: AppCanvas.SetColour
+- uid: Booseapp.AppCanvas.Tri(System.Int32,System.Int32)
+  name: Tri(int, int)
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Tri_System_Int32_System_Int32_
+  commentId: M:Booseapp.AppCanvas.Tri(System.Int32,System.Int32)
+  name.vb: Tri(Integer, Integer)
+  fullName: Booseapp.AppCanvas.Tri(int, int)
+  fullName.vb: Booseapp.AppCanvas.Tri(Integer, Integer)
+  nameWithType: AppCanvas.Tri(int, int)
+  nameWithType.vb: AppCanvas.Tri(Integer, Integer)
+- uid: Booseapp.AppCanvas.Tri*
+  name: Tri
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Tri_
+  commentId: Overload:Booseapp.AppCanvas.Tri
+  isSpec: "True"
+  fullName: Booseapp.AppCanvas.Tri
+  nameWithType: AppCanvas.Tri
+- uid: Booseapp.AppCanvas.WriteText(System.String)
+  name: WriteText(string)
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_WriteText_System_String_
+  commentId: M:Booseapp.AppCanvas.WriteText(System.String)
+  name.vb: WriteText(String)
+  fullName: Booseapp.AppCanvas.WriteText(string)
+  fullName.vb: Booseapp.AppCanvas.WriteText(String)
+  nameWithType: AppCanvas.WriteText(string)
+  nameWithType.vb: AppCanvas.WriteText(String)
+- uid: Booseapp.AppCanvas.WriteText*
+  name: WriteText
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_WriteText_
+  commentId: Overload:Booseapp.AppCanvas.WriteText
+  isSpec: "True"
+  fullName: Booseapp.AppCanvas.WriteText
+  nameWithType: AppCanvas.WriteText
+- uid: Booseapp.AppCanvas.Xpos
+  name: Xpos
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Xpos
+  commentId: P:Booseapp.AppCanvas.Xpos
+  fullName: Booseapp.AppCanvas.Xpos
+  nameWithType: AppCanvas.Xpos
+- uid: Booseapp.AppCanvas.Xpos*
+  name: Xpos
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Xpos_
+  commentId: Overload:Booseapp.AppCanvas.Xpos
+  isSpec: "True"
+  fullName: Booseapp.AppCanvas.Xpos
+  nameWithType: AppCanvas.Xpos
+- uid: Booseapp.AppCanvas.Ypos
+  name: Ypos
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Ypos
+  commentId: P:Booseapp.AppCanvas.Ypos
+  fullName: Booseapp.AppCanvas.Ypos
+  nameWithType: AppCanvas.Ypos
+- uid: Booseapp.AppCanvas.Ypos*
+  name: Ypos
+  href: api/Booseapp.AppCanvas.html#Booseapp_AppCanvas_Ypos_
+  commentId: Overload:Booseapp.AppCanvas.Ypos
+  isSpec: "True"
+  fullName: Booseapp.AppCanvas.Ypos
+  nameWithType: AppCanvas.Ypos
+- uid: Booseapp.Form1
+  name: Form1
+  href: api/Booseapp.Form1.html
+  commentId: T:Booseapp.Form1
+  fullName: Booseapp.Form1
+  nameWithType: Form1
+- uid: Booseapp.Form1.#ctor
+  name: Form1()
+  href: api/Booseapp.Form1.html#Booseapp_Form1__ctor
+  commentId: M:Booseapp.Form1.#ctor
+  name.vb: New()
+  fullName: Booseapp.Form1.Form1()
+  fullName.vb: Booseapp.Form1.New()
+  nameWithType: Form1.Form1()
+  nameWithType.vb: Form1.New()
+- uid: Booseapp.Form1.#ctor*
+  name: Form1
+  href: api/Booseapp.Form1.html#Booseapp_Form1__ctor_
+  commentId: Overload:Booseapp.Form1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.Form1.Form1
+  fullName.vb: Booseapp.Form1.New
+  nameWithType: Form1.Form1
+  nameWithType.vb: Form1.New
+- uid: Booseapp.Form1.Dispose(System.Boolean)
+  name: Dispose(bool)
+  href: api/Booseapp.Form1.html#Booseapp_Form1_Dispose_System_Boolean_
+  commentId: M:Booseapp.Form1.Dispose(System.Boolean)
+  name.vb: Dispose(Boolean)
+  fullName: Booseapp.Form1.Dispose(bool)
+  fullName.vb: Booseapp.Form1.Dispose(Boolean)
+  nameWithType: Form1.Dispose(bool)
+  nameWithType.vb: Form1.Dispose(Boolean)
+- uid: Booseapp.Form1.Dispose*
+  name: Dispose
+  href: api/Booseapp.Form1.html#Booseapp_Form1_Dispose_
+  commentId: Overload:Booseapp.Form1.Dispose
+  isSpec: "True"
+  fullName: Booseapp.Form1.Dispose
+  nameWithType: Form1.Dispose
+- uid: Booseapp.Interpreter
+  name: Booseapp.Interpreter
+  href: api/Booseapp.Interpreter.html
+  commentId: N:Booseapp.Interpreter
+  fullName: Booseapp.Interpreter
+  nameWithType: Booseapp.Interpreter
+- uid: Booseapp.Interpreter.ArrayDeclarationCommand
+  name: ArrayDeclarationCommand
+  href: api/Booseapp.Interpreter.ArrayDeclarationCommand.html
+  commentId: T:Booseapp.Interpreter.ArrayDeclarationCommand
+  fullName: Booseapp.Interpreter.ArrayDeclarationCommand
+  nameWithType: ArrayDeclarationCommand
+- uid: Booseapp.Interpreter.ArrayDeclarationCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,System.String,System.String,System.String)
+  name: ArrayDeclarationCommand(ExpressionEvaluator, string, string, string)
+  href: api/Booseapp.Interpreter.ArrayDeclarationCommand.html#Booseapp_Interpreter_ArrayDeclarationCommand__ctor_Booseapp_Interpreter_ExpressionEvaluator_System_String_System_String_System_String_
+  commentId: M:Booseapp.Interpreter.ArrayDeclarationCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,System.String,System.String,System.String)
+  name.vb: New(ExpressionEvaluator, String, String, String)
+  fullName: Booseapp.Interpreter.ArrayDeclarationCommand.ArrayDeclarationCommand(Booseapp.Interpreter.ExpressionEvaluator, string, string, string)
+  fullName.vb: Booseapp.Interpreter.ArrayDeclarationCommand.New(Booseapp.Interpreter.ExpressionEvaluator, String, String, String)
+  nameWithType: ArrayDeclarationCommand.ArrayDeclarationCommand(ExpressionEvaluator, string, string, string)
+  nameWithType.vb: ArrayDeclarationCommand.New(ExpressionEvaluator, String, String, String)
+- uid: Booseapp.Interpreter.ArrayDeclarationCommand.#ctor*
+  name: ArrayDeclarationCommand
+  href: api/Booseapp.Interpreter.ArrayDeclarationCommand.html#Booseapp_Interpreter_ArrayDeclarationCommand__ctor_
+  commentId: Overload:Booseapp.Interpreter.ArrayDeclarationCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.Interpreter.ArrayDeclarationCommand.ArrayDeclarationCommand
+  fullName.vb: Booseapp.Interpreter.ArrayDeclarationCommand.New
+  nameWithType: ArrayDeclarationCommand.ArrayDeclarationCommand
+  nameWithType.vb: ArrayDeclarationCommand.New
+- uid: Booseapp.Interpreter.ArrayDeclarationCommand.Execute
+  name: Execute()
+  href: api/Booseapp.Interpreter.ArrayDeclarationCommand.html#Booseapp_Interpreter_ArrayDeclarationCommand_Execute
+  commentId: M:Booseapp.Interpreter.ArrayDeclarationCommand.Execute
+  fullName: Booseapp.Interpreter.ArrayDeclarationCommand.Execute()
+  nameWithType: ArrayDeclarationCommand.Execute()
+- uid: Booseapp.Interpreter.ArrayDeclarationCommand.Execute*
+  name: Execute
+  href: api/Booseapp.Interpreter.ArrayDeclarationCommand.html#Booseapp_Interpreter_ArrayDeclarationCommand_Execute_
+  commentId: Overload:Booseapp.Interpreter.ArrayDeclarationCommand.Execute
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.ArrayDeclarationCommand.Execute
+  nameWithType: ArrayDeclarationCommand.Execute
+- uid: Booseapp.Interpreter.AssignmentCommand
+  name: AssignmentCommand
+  href: api/Booseapp.Interpreter.AssignmentCommand.html
+  commentId: T:Booseapp.Interpreter.AssignmentCommand
+  fullName: Booseapp.Interpreter.AssignmentCommand
+  nameWithType: AssignmentCommand
+- uid: Booseapp.Interpreter.AssignmentCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,System.String,System.String)
+  name: AssignmentCommand(ExpressionEvaluator, string, string)
+  href: api/Booseapp.Interpreter.AssignmentCommand.html#Booseapp_Interpreter_AssignmentCommand__ctor_Booseapp_Interpreter_ExpressionEvaluator_System_String_System_String_
+  commentId: M:Booseapp.Interpreter.AssignmentCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,System.String,System.String)
+  name.vb: New(ExpressionEvaluator, String, String)
+  fullName: Booseapp.Interpreter.AssignmentCommand.AssignmentCommand(Booseapp.Interpreter.ExpressionEvaluator, string, string)
+  fullName.vb: Booseapp.Interpreter.AssignmentCommand.New(Booseapp.Interpreter.ExpressionEvaluator, String, String)
+  nameWithType: AssignmentCommand.AssignmentCommand(ExpressionEvaluator, string, string)
+  nameWithType.vb: AssignmentCommand.New(ExpressionEvaluator, String, String)
+- uid: Booseapp.Interpreter.AssignmentCommand.#ctor*
+  name: AssignmentCommand
+  href: api/Booseapp.Interpreter.AssignmentCommand.html#Booseapp_Interpreter_AssignmentCommand__ctor_
+  commentId: Overload:Booseapp.Interpreter.AssignmentCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.Interpreter.AssignmentCommand.AssignmentCommand
+  fullName.vb: Booseapp.Interpreter.AssignmentCommand.New
+  nameWithType: AssignmentCommand.AssignmentCommand
+  nameWithType.vb: AssignmentCommand.New
+- uid: Booseapp.Interpreter.AssignmentCommand.Execute
+  name: Execute()
+  href: api/Booseapp.Interpreter.AssignmentCommand.html#Booseapp_Interpreter_AssignmentCommand_Execute
+  commentId: M:Booseapp.Interpreter.AssignmentCommand.Execute
+  fullName: Booseapp.Interpreter.AssignmentCommand.Execute()
+  nameWithType: AssignmentCommand.Execute()
+- uid: Booseapp.Interpreter.AssignmentCommand.Execute*
+  name: Execute
+  href: api/Booseapp.Interpreter.AssignmentCommand.html#Booseapp_Interpreter_AssignmentCommand_Execute_
+  commentId: Overload:Booseapp.Interpreter.AssignmentCommand.Execute
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.AssignmentCommand.Execute
+  nameWithType: AssignmentCommand.Execute
+- uid: Booseapp.Interpreter.BooleanAssignmentCommand
+  name: BooleanAssignmentCommand
+  href: api/Booseapp.Interpreter.BooleanAssignmentCommand.html
+  commentId: T:Booseapp.Interpreter.BooleanAssignmentCommand
+  fullName: Booseapp.Interpreter.BooleanAssignmentCommand
+  nameWithType: BooleanAssignmentCommand
+- uid: Booseapp.Interpreter.BooleanAssignmentCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,System.String,System.String)
+  name: BooleanAssignmentCommand(ExpressionEvaluator, string, string)
+  href: api/Booseapp.Interpreter.BooleanAssignmentCommand.html#Booseapp_Interpreter_BooleanAssignmentCommand__ctor_Booseapp_Interpreter_ExpressionEvaluator_System_String_System_String_
+  commentId: M:Booseapp.Interpreter.BooleanAssignmentCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,System.String,System.String)
+  name.vb: New(ExpressionEvaluator, String, String)
+  fullName: Booseapp.Interpreter.BooleanAssignmentCommand.BooleanAssignmentCommand(Booseapp.Interpreter.ExpressionEvaluator, string, string)
+  fullName.vb: Booseapp.Interpreter.BooleanAssignmentCommand.New(Booseapp.Interpreter.ExpressionEvaluator, String, String)
+  nameWithType: BooleanAssignmentCommand.BooleanAssignmentCommand(ExpressionEvaluator, string, string)
+  nameWithType.vb: BooleanAssignmentCommand.New(ExpressionEvaluator, String, String)
+- uid: Booseapp.Interpreter.BooleanAssignmentCommand.#ctor*
+  name: BooleanAssignmentCommand
+  href: api/Booseapp.Interpreter.BooleanAssignmentCommand.html#Booseapp_Interpreter_BooleanAssignmentCommand__ctor_
+  commentId: Overload:Booseapp.Interpreter.BooleanAssignmentCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.Interpreter.BooleanAssignmentCommand.BooleanAssignmentCommand
+  fullName.vb: Booseapp.Interpreter.BooleanAssignmentCommand.New
+  nameWithType: BooleanAssignmentCommand.BooleanAssignmentCommand
+  nameWithType.vb: BooleanAssignmentCommand.New
+- uid: Booseapp.Interpreter.BooleanAssignmentCommand.Execute
+  name: Execute()
+  href: api/Booseapp.Interpreter.BooleanAssignmentCommand.html#Booseapp_Interpreter_BooleanAssignmentCommand_Execute
+  commentId: M:Booseapp.Interpreter.BooleanAssignmentCommand.Execute
+  fullName: Booseapp.Interpreter.BooleanAssignmentCommand.Execute()
+  nameWithType: BooleanAssignmentCommand.Execute()
+- uid: Booseapp.Interpreter.BooleanAssignmentCommand.Execute*
+  name: Execute
+  href: api/Booseapp.Interpreter.BooleanAssignmentCommand.html#Booseapp_Interpreter_BooleanAssignmentCommand_Execute_
+  commentId: Overload:Booseapp.Interpreter.BooleanAssignmentCommand.Execute
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.BooleanAssignmentCommand.Execute
+  nameWithType: BooleanAssignmentCommand.Execute
+- uid: Booseapp.Interpreter.BooleanDeclarationCommand
+  name: BooleanDeclarationCommand
+  href: api/Booseapp.Interpreter.BooleanDeclarationCommand.html
+  commentId: T:Booseapp.Interpreter.BooleanDeclarationCommand
+  fullName: Booseapp.Interpreter.BooleanDeclarationCommand
+  nameWithType: BooleanDeclarationCommand
+- uid: Booseapp.Interpreter.BooleanDeclarationCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,System.String,System.String)
+  name: BooleanDeclarationCommand(ExpressionEvaluator, string, string?)
+  href: api/Booseapp.Interpreter.BooleanDeclarationCommand.html#Booseapp_Interpreter_BooleanDeclarationCommand__ctor_Booseapp_Interpreter_ExpressionEvaluator_System_String_System_String_
+  commentId: M:Booseapp.Interpreter.BooleanDeclarationCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,System.String,System.String)
+  name.vb: New(ExpressionEvaluator, String, String)
+  fullName: Booseapp.Interpreter.BooleanDeclarationCommand.BooleanDeclarationCommand(Booseapp.Interpreter.ExpressionEvaluator, string, string?)
+  fullName.vb: Booseapp.Interpreter.BooleanDeclarationCommand.New(Booseapp.Interpreter.ExpressionEvaluator, String, String)
+  nameWithType: BooleanDeclarationCommand.BooleanDeclarationCommand(ExpressionEvaluator, string, string?)
+  nameWithType.vb: BooleanDeclarationCommand.New(ExpressionEvaluator, String, String)
+- uid: Booseapp.Interpreter.BooleanDeclarationCommand.#ctor*
+  name: BooleanDeclarationCommand
+  href: api/Booseapp.Interpreter.BooleanDeclarationCommand.html#Booseapp_Interpreter_BooleanDeclarationCommand__ctor_
+  commentId: Overload:Booseapp.Interpreter.BooleanDeclarationCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.Interpreter.BooleanDeclarationCommand.BooleanDeclarationCommand
+  fullName.vb: Booseapp.Interpreter.BooleanDeclarationCommand.New
+  nameWithType: BooleanDeclarationCommand.BooleanDeclarationCommand
+  nameWithType.vb: BooleanDeclarationCommand.New
+- uid: Booseapp.Interpreter.BooleanDeclarationCommand.Execute
+  name: Execute()
+  href: api/Booseapp.Interpreter.BooleanDeclarationCommand.html#Booseapp_Interpreter_BooleanDeclarationCommand_Execute
+  commentId: M:Booseapp.Interpreter.BooleanDeclarationCommand.Execute
+  fullName: Booseapp.Interpreter.BooleanDeclarationCommand.Execute()
+  nameWithType: BooleanDeclarationCommand.Execute()
+- uid: Booseapp.Interpreter.BooleanDeclarationCommand.Execute*
+  name: Execute
+  href: api/Booseapp.Interpreter.BooleanDeclarationCommand.html#Booseapp_Interpreter_BooleanDeclarationCommand_Execute_
+  commentId: Overload:Booseapp.Interpreter.BooleanDeclarationCommand.Execute
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.BooleanDeclarationCommand.Execute
+  nameWithType: BooleanDeclarationCommand.Execute
+- uid: Booseapp.Interpreter.CallCommand
+  name: CallCommand
+  href: api/Booseapp.Interpreter.CallCommand.html
+  commentId: T:Booseapp.Interpreter.CallCommand
+  fullName: Booseapp.Interpreter.CallCommand
+  nameWithType: CallCommand
+- uid: Booseapp.Interpreter.CallCommand.#ctor(Booseapp.Interpreter.MiniFactory,System.String)
+  name: CallCommand(MiniFactory, string)
+  href: api/Booseapp.Interpreter.CallCommand.html#Booseapp_Interpreter_CallCommand__ctor_Booseapp_Interpreter_MiniFactory_System_String_
+  commentId: M:Booseapp.Interpreter.CallCommand.#ctor(Booseapp.Interpreter.MiniFactory,System.String)
+  name.vb: New(MiniFactory, String)
+  fullName: Booseapp.Interpreter.CallCommand.CallCommand(Booseapp.Interpreter.MiniFactory, string)
+  fullName.vb: Booseapp.Interpreter.CallCommand.New(Booseapp.Interpreter.MiniFactory, String)
+  nameWithType: CallCommand.CallCommand(MiniFactory, string)
+  nameWithType.vb: CallCommand.New(MiniFactory, String)
+- uid: Booseapp.Interpreter.CallCommand.#ctor*
+  name: CallCommand
+  href: api/Booseapp.Interpreter.CallCommand.html#Booseapp_Interpreter_CallCommand__ctor_
+  commentId: Overload:Booseapp.Interpreter.CallCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.Interpreter.CallCommand.CallCommand
+  fullName.vb: Booseapp.Interpreter.CallCommand.New
+  nameWithType: CallCommand.CallCommand
+  nameWithType.vb: CallCommand.New
+- uid: Booseapp.Interpreter.CallCommand.Execute
+  name: Execute()
+  href: api/Booseapp.Interpreter.CallCommand.html#Booseapp_Interpreter_CallCommand_Execute
+  commentId: M:Booseapp.Interpreter.CallCommand.Execute
+  fullName: Booseapp.Interpreter.CallCommand.Execute()
+  nameWithType: CallCommand.Execute()
+- uid: Booseapp.Interpreter.CallCommand.Execute*
+  name: Execute
+  href: api/Booseapp.Interpreter.CallCommand.html#Booseapp_Interpreter_CallCommand_Execute_
+  commentId: Overload:Booseapp.Interpreter.CallCommand.Execute
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.CallCommand.Execute
+  nameWithType: CallCommand.Execute
+- uid: Booseapp.Interpreter.CircleCommand
+  name: CircleCommand
+  href: api/Booseapp.Interpreter.CircleCommand.html
+  commentId: T:Booseapp.Interpreter.CircleCommand
+  fullName: Booseapp.Interpreter.CircleCommand
+  nameWithType: CircleCommand
+- uid: Booseapp.Interpreter.CircleCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,Booseapp.AppCanvas,System.String)
+  name: CircleCommand(ExpressionEvaluator, AppCanvas, string)
+  href: api/Booseapp.Interpreter.CircleCommand.html#Booseapp_Interpreter_CircleCommand__ctor_Booseapp_Interpreter_ExpressionEvaluator_Booseapp_AppCanvas_System_String_
+  commentId: M:Booseapp.Interpreter.CircleCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,Booseapp.AppCanvas,System.String)
+  name.vb: New(ExpressionEvaluator, AppCanvas, String)
+  fullName: Booseapp.Interpreter.CircleCommand.CircleCommand(Booseapp.Interpreter.ExpressionEvaluator, Booseapp.AppCanvas, string)
+  fullName.vb: Booseapp.Interpreter.CircleCommand.New(Booseapp.Interpreter.ExpressionEvaluator, Booseapp.AppCanvas, String)
+  nameWithType: CircleCommand.CircleCommand(ExpressionEvaluator, AppCanvas, string)
+  nameWithType.vb: CircleCommand.New(ExpressionEvaluator, AppCanvas, String)
+- uid: Booseapp.Interpreter.CircleCommand.#ctor*
+  name: CircleCommand
+  href: api/Booseapp.Interpreter.CircleCommand.html#Booseapp_Interpreter_CircleCommand__ctor_
+  commentId: Overload:Booseapp.Interpreter.CircleCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.Interpreter.CircleCommand.CircleCommand
+  fullName.vb: Booseapp.Interpreter.CircleCommand.New
+  nameWithType: CircleCommand.CircleCommand
+  nameWithType.vb: CircleCommand.New
+- uid: Booseapp.Interpreter.CircleCommand.Execute
+  name: Execute()
+  href: api/Booseapp.Interpreter.CircleCommand.html#Booseapp_Interpreter_CircleCommand_Execute
+  commentId: M:Booseapp.Interpreter.CircleCommand.Execute
+  fullName: Booseapp.Interpreter.CircleCommand.Execute()
+  nameWithType: CircleCommand.Execute()
+- uid: Booseapp.Interpreter.CircleCommand.Execute*
+  name: Execute
+  href: api/Booseapp.Interpreter.CircleCommand.html#Booseapp_Interpreter_CircleCommand_Execute_
+  commentId: Overload:Booseapp.Interpreter.CircleCommand.Execute
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.CircleCommand.Execute
+  nameWithType: CircleCommand.Execute
+- uid: Booseapp.Interpreter.ExpressionEvaluator
+  name: ExpressionEvaluator
+  href: api/Booseapp.Interpreter.ExpressionEvaluator.html
+  commentId: T:Booseapp.Interpreter.ExpressionEvaluator
+  fullName: Booseapp.Interpreter.ExpressionEvaluator
+  nameWithType: ExpressionEvaluator
+- uid: Booseapp.Interpreter.ExpressionEvaluator.#ctor(Booseapp.Interpreter.VariableStore)
+  name: ExpressionEvaluator(VariableStore)
+  href: api/Booseapp.Interpreter.ExpressionEvaluator.html#Booseapp_Interpreter_ExpressionEvaluator__ctor_Booseapp_Interpreter_VariableStore_
+  commentId: M:Booseapp.Interpreter.ExpressionEvaluator.#ctor(Booseapp.Interpreter.VariableStore)
+  name.vb: New(VariableStore)
+  fullName: Booseapp.Interpreter.ExpressionEvaluator.ExpressionEvaluator(Booseapp.Interpreter.VariableStore)
+  fullName.vb: Booseapp.Interpreter.ExpressionEvaluator.New(Booseapp.Interpreter.VariableStore)
+  nameWithType: ExpressionEvaluator.ExpressionEvaluator(VariableStore)
+  nameWithType.vb: ExpressionEvaluator.New(VariableStore)
+- uid: Booseapp.Interpreter.ExpressionEvaluator.#ctor*
+  name: ExpressionEvaluator
+  href: api/Booseapp.Interpreter.ExpressionEvaluator.html#Booseapp_Interpreter_ExpressionEvaluator__ctor_
+  commentId: Overload:Booseapp.Interpreter.ExpressionEvaluator.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.Interpreter.ExpressionEvaluator.ExpressionEvaluator
+  fullName.vb: Booseapp.Interpreter.ExpressionEvaluator.New
+  nameWithType: ExpressionEvaluator.ExpressionEvaluator
+  nameWithType.vb: ExpressionEvaluator.New
+- uid: Booseapp.Interpreter.ExpressionEvaluator.EvalBool(System.String)
+  name: EvalBool(string)
+  href: api/Booseapp.Interpreter.ExpressionEvaluator.html#Booseapp_Interpreter_ExpressionEvaluator_EvalBool_System_String_
+  commentId: M:Booseapp.Interpreter.ExpressionEvaluator.EvalBool(System.String)
+  name.vb: EvalBool(String)
+  fullName: Booseapp.Interpreter.ExpressionEvaluator.EvalBool(string)
+  fullName.vb: Booseapp.Interpreter.ExpressionEvaluator.EvalBool(String)
+  nameWithType: ExpressionEvaluator.EvalBool(string)
+  nameWithType.vb: ExpressionEvaluator.EvalBool(String)
+- uid: Booseapp.Interpreter.ExpressionEvaluator.EvalBool*
+  name: EvalBool
+  href: api/Booseapp.Interpreter.ExpressionEvaluator.html#Booseapp_Interpreter_ExpressionEvaluator_EvalBool_
+  commentId: Overload:Booseapp.Interpreter.ExpressionEvaluator.EvalBool
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.ExpressionEvaluator.EvalBool
+  nameWithType: ExpressionEvaluator.EvalBool
+- uid: Booseapp.Interpreter.ExpressionEvaluator.EvalNumber(System.String)
+  name: EvalNumber(string)
+  href: api/Booseapp.Interpreter.ExpressionEvaluator.html#Booseapp_Interpreter_ExpressionEvaluator_EvalNumber_System_String_
+  commentId: M:Booseapp.Interpreter.ExpressionEvaluator.EvalNumber(System.String)
+  name.vb: EvalNumber(String)
+  fullName: Booseapp.Interpreter.ExpressionEvaluator.EvalNumber(string)
+  fullName.vb: Booseapp.Interpreter.ExpressionEvaluator.EvalNumber(String)
+  nameWithType: ExpressionEvaluator.EvalNumber(string)
+  nameWithType.vb: ExpressionEvaluator.EvalNumber(String)
+- uid: Booseapp.Interpreter.ExpressionEvaluator.EvalNumber*
+  name: EvalNumber
+  href: api/Booseapp.Interpreter.ExpressionEvaluator.html#Booseapp_Interpreter_ExpressionEvaluator_EvalNumber_
+  commentId: Overload:Booseapp.Interpreter.ExpressionEvaluator.EvalNumber
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.ExpressionEvaluator.EvalNumber
+  nameWithType: ExpressionEvaluator.EvalNumber
+- uid: Booseapp.Interpreter.ICommand
+  name: ICommand
+  href: api/Booseapp.Interpreter.ICommand.html
+  commentId: T:Booseapp.Interpreter.ICommand
+  fullName: Booseapp.Interpreter.ICommand
+  nameWithType: ICommand
+- uid: Booseapp.Interpreter.ICommand.Execute
+  name: Execute()
+  href: api/Booseapp.Interpreter.ICommand.html#Booseapp_Interpreter_ICommand_Execute
+  commentId: M:Booseapp.Interpreter.ICommand.Execute
+  fullName: Booseapp.Interpreter.ICommand.Execute()
+  nameWithType: ICommand.Execute()
+- uid: Booseapp.Interpreter.ICommand.Execute*
+  name: Execute
+  href: api/Booseapp.Interpreter.ICommand.html#Booseapp_Interpreter_ICommand_Execute_
+  commentId: Overload:Booseapp.Interpreter.ICommand.Execute
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.ICommand.Execute
+  nameWithType: ICommand.Execute
+- uid: Booseapp.Interpreter.IntDeclarationCommand
+  name: IntDeclarationCommand
+  href: api/Booseapp.Interpreter.IntDeclarationCommand.html
+  commentId: T:Booseapp.Interpreter.IntDeclarationCommand
+  fullName: Booseapp.Interpreter.IntDeclarationCommand
+  nameWithType: IntDeclarationCommand
+- uid: Booseapp.Interpreter.IntDeclarationCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,System.String,System.String)
+  name: IntDeclarationCommand(ExpressionEvaluator, string, string?)
+  href: api/Booseapp.Interpreter.IntDeclarationCommand.html#Booseapp_Interpreter_IntDeclarationCommand__ctor_Booseapp_Interpreter_ExpressionEvaluator_System_String_System_String_
+  commentId: M:Booseapp.Interpreter.IntDeclarationCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,System.String,System.String)
+  name.vb: New(ExpressionEvaluator, String, String)
+  fullName: Booseapp.Interpreter.IntDeclarationCommand.IntDeclarationCommand(Booseapp.Interpreter.ExpressionEvaluator, string, string?)
+  fullName.vb: Booseapp.Interpreter.IntDeclarationCommand.New(Booseapp.Interpreter.ExpressionEvaluator, String, String)
+  nameWithType: IntDeclarationCommand.IntDeclarationCommand(ExpressionEvaluator, string, string?)
+  nameWithType.vb: IntDeclarationCommand.New(ExpressionEvaluator, String, String)
+- uid: Booseapp.Interpreter.IntDeclarationCommand.#ctor*
+  name: IntDeclarationCommand
+  href: api/Booseapp.Interpreter.IntDeclarationCommand.html#Booseapp_Interpreter_IntDeclarationCommand__ctor_
+  commentId: Overload:Booseapp.Interpreter.IntDeclarationCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.Interpreter.IntDeclarationCommand.IntDeclarationCommand
+  fullName.vb: Booseapp.Interpreter.IntDeclarationCommand.New
+  nameWithType: IntDeclarationCommand.IntDeclarationCommand
+  nameWithType.vb: IntDeclarationCommand.New
+- uid: Booseapp.Interpreter.IntDeclarationCommand.Execute
+  name: Execute()
+  href: api/Booseapp.Interpreter.IntDeclarationCommand.html#Booseapp_Interpreter_IntDeclarationCommand_Execute
+  commentId: M:Booseapp.Interpreter.IntDeclarationCommand.Execute
+  fullName: Booseapp.Interpreter.IntDeclarationCommand.Execute()
+  nameWithType: IntDeclarationCommand.Execute()
+- uid: Booseapp.Interpreter.IntDeclarationCommand.Execute*
+  name: Execute
+  href: api/Booseapp.Interpreter.IntDeclarationCommand.html#Booseapp_Interpreter_IntDeclarationCommand_Execute_
+  commentId: Overload:Booseapp.Interpreter.IntDeclarationCommand.Execute
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.IntDeclarationCommand.Execute
+  nameWithType: IntDeclarationCommand.Execute
+- uid: Booseapp.Interpreter.IntExpr
+  name: IntExpr
+  href: api/Booseapp.Interpreter.IntExpr.html
+  commentId: T:Booseapp.Interpreter.IntExpr
+  fullName: Booseapp.Interpreter.IntExpr
+  nameWithType: IntExpr
+- uid: Booseapp.Interpreter.IntExpr.Eval(System.String)
+  name: Eval(string)
+  href: api/Booseapp.Interpreter.IntExpr.html#Booseapp_Interpreter_IntExpr_Eval_System_String_
+  commentId: M:Booseapp.Interpreter.IntExpr.Eval(System.String)
+  name.vb: Eval(String)
+  fullName: Booseapp.Interpreter.IntExpr.Eval(string)
+  fullName.vb: Booseapp.Interpreter.IntExpr.Eval(String)
+  nameWithType: IntExpr.Eval(string)
+  nameWithType.vb: IntExpr.Eval(String)
+- uid: Booseapp.Interpreter.IntExpr.Eval*
+  name: Eval
+  href: api/Booseapp.Interpreter.IntExpr.html#Booseapp_Interpreter_IntExpr_Eval_
+  commentId: Overload:Booseapp.Interpreter.IntExpr.Eval
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.IntExpr.Eval
+  nameWithType: IntExpr.Eval
+- uid: Booseapp.Interpreter.MethodDefinition
+  name: MethodDefinition
+  href: api/Booseapp.Interpreter.MethodDefinition.html
+  commentId: T:Booseapp.Interpreter.MethodDefinition
+  fullName: Booseapp.Interpreter.MethodDefinition
+  nameWithType: MethodDefinition
+- uid: Booseapp.Interpreter.MethodDefinition.BodyLines
+  name: BodyLines
+  href: api/Booseapp.Interpreter.MethodDefinition.html#Booseapp_Interpreter_MethodDefinition_BodyLines
+  commentId: P:Booseapp.Interpreter.MethodDefinition.BodyLines
+  fullName: Booseapp.Interpreter.MethodDefinition.BodyLines
+  nameWithType: MethodDefinition.BodyLines
+- uid: Booseapp.Interpreter.MethodDefinition.BodyLines*
+  name: BodyLines
+  href: api/Booseapp.Interpreter.MethodDefinition.html#Booseapp_Interpreter_MethodDefinition_BodyLines_
+  commentId: Overload:Booseapp.Interpreter.MethodDefinition.BodyLines
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.MethodDefinition.BodyLines
+  nameWithType: MethodDefinition.BodyLines
+- uid: Booseapp.Interpreter.MethodDefinition.Name
+  name: Name
+  href: api/Booseapp.Interpreter.MethodDefinition.html#Booseapp_Interpreter_MethodDefinition_Name
+  commentId: P:Booseapp.Interpreter.MethodDefinition.Name
+  fullName: Booseapp.Interpreter.MethodDefinition.Name
+  nameWithType: MethodDefinition.Name
+- uid: Booseapp.Interpreter.MethodDefinition.Name*
+  name: Name
+  href: api/Booseapp.Interpreter.MethodDefinition.html#Booseapp_Interpreter_MethodDefinition_Name_
+  commentId: Overload:Booseapp.Interpreter.MethodDefinition.Name
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.MethodDefinition.Name
+  nameWithType: MethodDefinition.Name
+- uid: Booseapp.Interpreter.MethodDefinition.Parameters
+  name: Parameters
+  href: api/Booseapp.Interpreter.MethodDefinition.html#Booseapp_Interpreter_MethodDefinition_Parameters
+  commentId: P:Booseapp.Interpreter.MethodDefinition.Parameters
+  fullName: Booseapp.Interpreter.MethodDefinition.Parameters
+  nameWithType: MethodDefinition.Parameters
+- uid: Booseapp.Interpreter.MethodDefinition.Parameters*
+  name: Parameters
+  href: api/Booseapp.Interpreter.MethodDefinition.html#Booseapp_Interpreter_MethodDefinition_Parameters_
+  commentId: Overload:Booseapp.Interpreter.MethodDefinition.Parameters
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.MethodDefinition.Parameters
+  nameWithType: MethodDefinition.Parameters
+- uid: Booseapp.Interpreter.MethodDefinition.ReturnType
+  name: ReturnType
+  href: api/Booseapp.Interpreter.MethodDefinition.html#Booseapp_Interpreter_MethodDefinition_ReturnType
+  commentId: P:Booseapp.Interpreter.MethodDefinition.ReturnType
+  fullName: Booseapp.Interpreter.MethodDefinition.ReturnType
+  nameWithType: MethodDefinition.ReturnType
+- uid: Booseapp.Interpreter.MethodDefinition.ReturnType*
+  name: ReturnType
+  href: api/Booseapp.Interpreter.MethodDefinition.html#Booseapp_Interpreter_MethodDefinition_ReturnType_
+  commentId: Overload:Booseapp.Interpreter.MethodDefinition.ReturnType
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.MethodDefinition.ReturnType
+  nameWithType: MethodDefinition.ReturnType
+- uid: Booseapp.Interpreter.MethodTable
+  name: MethodTable
+  href: api/Booseapp.Interpreter.MethodTable.html
+  commentId: T:Booseapp.Interpreter.MethodTable
+  fullName: Booseapp.Interpreter.MethodTable
+  nameWithType: MethodTable
+- uid: Booseapp.Interpreter.MethodTable.Add(Booseapp.Interpreter.MethodDefinition)
+  name: Add(MethodDefinition)
+  href: api/Booseapp.Interpreter.MethodTable.html#Booseapp_Interpreter_MethodTable_Add_Booseapp_Interpreter_MethodDefinition_
+  commentId: M:Booseapp.Interpreter.MethodTable.Add(Booseapp.Interpreter.MethodDefinition)
+  fullName: Booseapp.Interpreter.MethodTable.Add(Booseapp.Interpreter.MethodDefinition)
+  nameWithType: MethodTable.Add(MethodDefinition)
+- uid: Booseapp.Interpreter.MethodTable.Add*
+  name: Add
+  href: api/Booseapp.Interpreter.MethodTable.html#Booseapp_Interpreter_MethodTable_Add_
+  commentId: Overload:Booseapp.Interpreter.MethodTable.Add
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.MethodTable.Add
+  nameWithType: MethodTable.Add
+- uid: Booseapp.Interpreter.MethodTable.Clear
+  name: Clear()
+  href: api/Booseapp.Interpreter.MethodTable.html#Booseapp_Interpreter_MethodTable_Clear
+  commentId: M:Booseapp.Interpreter.MethodTable.Clear
+  fullName: Booseapp.Interpreter.MethodTable.Clear()
+  nameWithType: MethodTable.Clear()
+- uid: Booseapp.Interpreter.MethodTable.Clear*
+  name: Clear
+  href: api/Booseapp.Interpreter.MethodTable.html#Booseapp_Interpreter_MethodTable_Clear_
+  commentId: Overload:Booseapp.Interpreter.MethodTable.Clear
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.MethodTable.Clear
+  nameWithType: MethodTable.Clear
+- uid: Booseapp.Interpreter.MethodTable.ParseHeader(System.String)
+  name: ParseHeader(string)
+  href: api/Booseapp.Interpreter.MethodTable.html#Booseapp_Interpreter_MethodTable_ParseHeader_System_String_
+  commentId: M:Booseapp.Interpreter.MethodTable.ParseHeader(System.String)
+  name.vb: ParseHeader(String)
+  fullName: Booseapp.Interpreter.MethodTable.ParseHeader(string)
+  fullName.vb: Booseapp.Interpreter.MethodTable.ParseHeader(String)
+  nameWithType: MethodTable.ParseHeader(string)
+  nameWithType.vb: MethodTable.ParseHeader(String)
+- uid: Booseapp.Interpreter.MethodTable.ParseHeader*
+  name: ParseHeader
+  href: api/Booseapp.Interpreter.MethodTable.html#Booseapp_Interpreter_MethodTable_ParseHeader_
+  commentId: Overload:Booseapp.Interpreter.MethodTable.ParseHeader
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.MethodTable.ParseHeader
+  nameWithType: MethodTable.ParseHeader
+- uid: Booseapp.Interpreter.MethodTable.TryGet(System.String,Booseapp.Interpreter.MethodDefinition@)
+  name: TryGet(string, out MethodDefinition)
+  href: api/Booseapp.Interpreter.MethodTable.html#Booseapp_Interpreter_MethodTable_TryGet_System_String_Booseapp_Interpreter_MethodDefinition__
+  commentId: M:Booseapp.Interpreter.MethodTable.TryGet(System.String,Booseapp.Interpreter.MethodDefinition@)
+  name.vb: TryGet(String, MethodDefinition)
+  fullName: Booseapp.Interpreter.MethodTable.TryGet(string, out Booseapp.Interpreter.MethodDefinition)
+  fullName.vb: Booseapp.Interpreter.MethodTable.TryGet(String, Booseapp.Interpreter.MethodDefinition)
+  nameWithType: MethodTable.TryGet(string, out MethodDefinition)
+  nameWithType.vb: MethodTable.TryGet(String, MethodDefinition)
+- uid: Booseapp.Interpreter.MethodTable.TryGet*
+  name: TryGet
+  href: api/Booseapp.Interpreter.MethodTable.html#Booseapp_Interpreter_MethodTable_TryGet_
+  commentId: Overload:Booseapp.Interpreter.MethodTable.TryGet
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.MethodTable.TryGet
+  nameWithType: MethodTable.TryGet
+- uid: Booseapp.Interpreter.MiniFactory
+  name: MiniFactory
+  href: api/Booseapp.Interpreter.MiniFactory.html
+  commentId: T:Booseapp.Interpreter.MiniFactory
+  fullName: Booseapp.Interpreter.MiniFactory
+  nameWithType: MiniFactory
+- uid: Booseapp.Interpreter.MiniFactory.#ctor(Booseapp.AppCanvas)
+  name: MiniFactory(AppCanvas)
+  href: api/Booseapp.Interpreter.MiniFactory.html#Booseapp_Interpreter_MiniFactory__ctor_Booseapp_AppCanvas_
+  commentId: M:Booseapp.Interpreter.MiniFactory.#ctor(Booseapp.AppCanvas)
+  name.vb: New(AppCanvas)
+  fullName: Booseapp.Interpreter.MiniFactory.MiniFactory(Booseapp.AppCanvas)
+  fullName.vb: Booseapp.Interpreter.MiniFactory.New(Booseapp.AppCanvas)
+  nameWithType: MiniFactory.MiniFactory(AppCanvas)
+  nameWithType.vb: MiniFactory.New(AppCanvas)
+- uid: Booseapp.Interpreter.MiniFactory.#ctor*
+  name: MiniFactory
+  href: api/Booseapp.Interpreter.MiniFactory.html#Booseapp_Interpreter_MiniFactory__ctor_
+  commentId: Overload:Booseapp.Interpreter.MiniFactory.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.Interpreter.MiniFactory.MiniFactory
+  fullName.vb: Booseapp.Interpreter.MiniFactory.New
+  nameWithType: MiniFactory.MiniFactory
+  nameWithType.vb: MiniFactory.New
+- uid: Booseapp.Interpreter.MiniFactory.Create(System.String)
+  name: Create(string)
+  href: api/Booseapp.Interpreter.MiniFactory.html#Booseapp_Interpreter_MiniFactory_Create_System_String_
+  commentId: M:Booseapp.Interpreter.MiniFactory.Create(System.String)
+  name.vb: Create(String)
+  fullName: Booseapp.Interpreter.MiniFactory.Create(string)
+  fullName.vb: Booseapp.Interpreter.MiniFactory.Create(String)
+  nameWithType: MiniFactory.Create(string)
+  nameWithType.vb: MiniFactory.Create(String)
+- uid: Booseapp.Interpreter.MiniFactory.Create*
+  name: Create
+  href: api/Booseapp.Interpreter.MiniFactory.html#Booseapp_Interpreter_MiniFactory_Create_
+  commentId: Overload:Booseapp.Interpreter.MiniFactory.Create
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.MiniFactory.Create
+  nameWithType: MiniFactory.Create
+- uid: Booseapp.Interpreter.MiniFactory.Evaluator
+  name: Evaluator
+  href: api/Booseapp.Interpreter.MiniFactory.html#Booseapp_Interpreter_MiniFactory_Evaluator
+  commentId: P:Booseapp.Interpreter.MiniFactory.Evaluator
+  fullName: Booseapp.Interpreter.MiniFactory.Evaluator
+  nameWithType: MiniFactory.Evaluator
+- uid: Booseapp.Interpreter.MiniFactory.Evaluator*
+  name: Evaluator
+  href: api/Booseapp.Interpreter.MiniFactory.html#Booseapp_Interpreter_MiniFactory_Evaluator_
+  commentId: Overload:Booseapp.Interpreter.MiniFactory.Evaluator
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.MiniFactory.Evaluator
+  nameWithType: MiniFactory.Evaluator
+- uid: Booseapp.Interpreter.MiniFactory.Methods
+  name: Methods
+  href: api/Booseapp.Interpreter.MiniFactory.html#Booseapp_Interpreter_MiniFactory_Methods
+  commentId: P:Booseapp.Interpreter.MiniFactory.Methods
+  fullName: Booseapp.Interpreter.MiniFactory.Methods
+  nameWithType: MiniFactory.Methods
+- uid: Booseapp.Interpreter.MiniFactory.Methods*
+  name: Methods
+  href: api/Booseapp.Interpreter.MiniFactory.html#Booseapp_Interpreter_MiniFactory_Methods_
+  commentId: Overload:Booseapp.Interpreter.MiniFactory.Methods
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.MiniFactory.Methods
+  nameWithType: MiniFactory.Methods
+- uid: Booseapp.Interpreter.MiniInterpreter
+  name: MiniInterpreter
+  href: api/Booseapp.Interpreter.MiniInterpreter.html
+  commentId: T:Booseapp.Interpreter.MiniInterpreter
+  fullName: Booseapp.Interpreter.MiniInterpreter
+  nameWithType: MiniInterpreter
+- uid: Booseapp.Interpreter.MiniInterpreter.#ctor(Booseapp.AppCanvas)
+  name: MiniInterpreter(AppCanvas)
+  href: api/Booseapp.Interpreter.MiniInterpreter.html#Booseapp_Interpreter_MiniInterpreter__ctor_Booseapp_AppCanvas_
+  commentId: M:Booseapp.Interpreter.MiniInterpreter.#ctor(Booseapp.AppCanvas)
+  name.vb: New(AppCanvas)
+  fullName: Booseapp.Interpreter.MiniInterpreter.MiniInterpreter(Booseapp.AppCanvas)
+  fullName.vb: Booseapp.Interpreter.MiniInterpreter.New(Booseapp.AppCanvas)
+  nameWithType: MiniInterpreter.MiniInterpreter(AppCanvas)
+  nameWithType.vb: MiniInterpreter.New(AppCanvas)
+- uid: Booseapp.Interpreter.MiniInterpreter.#ctor(Booseapp.Interpreter.MiniFactory)
+  name: MiniInterpreter(MiniFactory)
+  href: api/Booseapp.Interpreter.MiniInterpreter.html#Booseapp_Interpreter_MiniInterpreter__ctor_Booseapp_Interpreter_MiniFactory_
+  commentId: M:Booseapp.Interpreter.MiniInterpreter.#ctor(Booseapp.Interpreter.MiniFactory)
+  name.vb: New(MiniFactory)
+  fullName: Booseapp.Interpreter.MiniInterpreter.MiniInterpreter(Booseapp.Interpreter.MiniFactory)
+  fullName.vb: Booseapp.Interpreter.MiniInterpreter.New(Booseapp.Interpreter.MiniFactory)
+  nameWithType: MiniInterpreter.MiniInterpreter(MiniFactory)
+  nameWithType.vb: MiniInterpreter.New(MiniFactory)
+- uid: Booseapp.Interpreter.MiniInterpreter.#ctor*
+  name: MiniInterpreter
+  href: api/Booseapp.Interpreter.MiniInterpreter.html#Booseapp_Interpreter_MiniInterpreter__ctor_
+  commentId: Overload:Booseapp.Interpreter.MiniInterpreter.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.Interpreter.MiniInterpreter.MiniInterpreter
+  fullName.vb: Booseapp.Interpreter.MiniInterpreter.New
+  nameWithType: MiniInterpreter.MiniInterpreter
+  nameWithType.vb: MiniInterpreter.New
+- uid: Booseapp.Interpreter.MiniInterpreter.Current
+  name: Current
+  href: api/Booseapp.Interpreter.MiniInterpreter.html#Booseapp_Interpreter_MiniInterpreter_Current
+  commentId: P:Booseapp.Interpreter.MiniInterpreter.Current
+  fullName: Booseapp.Interpreter.MiniInterpreter.Current
+  nameWithType: MiniInterpreter.Current
+- uid: Booseapp.Interpreter.MiniInterpreter.Current*
+  name: Current
+  href: api/Booseapp.Interpreter.MiniInterpreter.html#Booseapp_Interpreter_MiniInterpreter_Current_
+  commentId: Overload:Booseapp.Interpreter.MiniInterpreter.Current
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.MiniInterpreter.Current
+  nameWithType: MiniInterpreter.Current
+- uid: Booseapp.Interpreter.MiniInterpreter.ExecuteSingleLine(System.String)
+  name: ExecuteSingleLine(string)
+  href: api/Booseapp.Interpreter.MiniInterpreter.html#Booseapp_Interpreter_MiniInterpreter_ExecuteSingleLine_System_String_
+  commentId: M:Booseapp.Interpreter.MiniInterpreter.ExecuteSingleLine(System.String)
+  name.vb: ExecuteSingleLine(String)
+  fullName: Booseapp.Interpreter.MiniInterpreter.ExecuteSingleLine(string)
+  fullName.vb: Booseapp.Interpreter.MiniInterpreter.ExecuteSingleLine(String)
+  nameWithType: MiniInterpreter.ExecuteSingleLine(string)
+  nameWithType.vb: MiniInterpreter.ExecuteSingleLine(String)
+- uid: Booseapp.Interpreter.MiniInterpreter.ExecuteSingleLine*
+  name: ExecuteSingleLine
+  href: api/Booseapp.Interpreter.MiniInterpreter.html#Booseapp_Interpreter_MiniInterpreter_ExecuteSingleLine_
+  commentId: Overload:Booseapp.Interpreter.MiniInterpreter.ExecuteSingleLine
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.MiniInterpreter.ExecuteSingleLine
+  nameWithType: MiniInterpreter.ExecuteSingleLine
+- uid: Booseapp.Interpreter.MiniInterpreter.Run(System.String)
+  name: Run(string)
+  href: api/Booseapp.Interpreter.MiniInterpreter.html#Booseapp_Interpreter_MiniInterpreter_Run_System_String_
+  commentId: M:Booseapp.Interpreter.MiniInterpreter.Run(System.String)
+  name.vb: Run(String)
+  fullName: Booseapp.Interpreter.MiniInterpreter.Run(string)
+  fullName.vb: Booseapp.Interpreter.MiniInterpreter.Run(String)
+  nameWithType: MiniInterpreter.Run(string)
+  nameWithType.vb: MiniInterpreter.Run(String)
+- uid: Booseapp.Interpreter.MiniInterpreter.Run(System.String[])
+  name: Run(string[])
+  href: api/Booseapp.Interpreter.MiniInterpreter.html#Booseapp_Interpreter_MiniInterpreter_Run_System_String___
+  commentId: M:Booseapp.Interpreter.MiniInterpreter.Run(System.String[])
+  name.vb: Run(String())
+  fullName: Booseapp.Interpreter.MiniInterpreter.Run(string[])
+  fullName.vb: Booseapp.Interpreter.MiniInterpreter.Run(String())
+  nameWithType: MiniInterpreter.Run(string[])
+  nameWithType.vb: MiniInterpreter.Run(String())
+- uid: Booseapp.Interpreter.MiniInterpreter.Run*
+  name: Run
+  href: api/Booseapp.Interpreter.MiniInterpreter.html#Booseapp_Interpreter_MiniInterpreter_Run_
+  commentId: Overload:Booseapp.Interpreter.MiniInterpreter.Run
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.MiniInterpreter.Run
+  nameWithType: MiniInterpreter.Run
+- uid: Booseapp.Interpreter.MiniInterpreter.RunProgram(System.String)
+  name: RunProgram(string)
+  href: api/Booseapp.Interpreter.MiniInterpreter.html#Booseapp_Interpreter_MiniInterpreter_RunProgram_System_String_
+  commentId: M:Booseapp.Interpreter.MiniInterpreter.RunProgram(System.String)
+  name.vb: RunProgram(String)
+  fullName: Booseapp.Interpreter.MiniInterpreter.RunProgram(string)
+  fullName.vb: Booseapp.Interpreter.MiniInterpreter.RunProgram(String)
+  nameWithType: MiniInterpreter.RunProgram(string)
+  nameWithType.vb: MiniInterpreter.RunProgram(String)
+- uid: Booseapp.Interpreter.MiniInterpreter.RunProgram*
+  name: RunProgram
+  href: api/Booseapp.Interpreter.MiniInterpreter.html#Booseapp_Interpreter_MiniInterpreter_RunProgram_
+  commentId: Overload:Booseapp.Interpreter.MiniInterpreter.RunProgram
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.MiniInterpreter.RunProgram
+  nameWithType: MiniInterpreter.RunProgram
+- uid: Booseapp.Interpreter.MoveToCommand
+  name: MoveToCommand
+  href: api/Booseapp.Interpreter.MoveToCommand.html
+  commentId: T:Booseapp.Interpreter.MoveToCommand
+  fullName: Booseapp.Interpreter.MoveToCommand
+  nameWithType: MoveToCommand
+- uid: Booseapp.Interpreter.MoveToCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,Booseapp.AppCanvas,System.String,System.String)
+  name: MoveToCommand(ExpressionEvaluator, AppCanvas, string, string)
+  href: api/Booseapp.Interpreter.MoveToCommand.html#Booseapp_Interpreter_MoveToCommand__ctor_Booseapp_Interpreter_ExpressionEvaluator_Booseapp_AppCanvas_System_String_System_String_
+  commentId: M:Booseapp.Interpreter.MoveToCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,Booseapp.AppCanvas,System.String,System.String)
+  name.vb: New(ExpressionEvaluator, AppCanvas, String, String)
+  fullName: Booseapp.Interpreter.MoveToCommand.MoveToCommand(Booseapp.Interpreter.ExpressionEvaluator, Booseapp.AppCanvas, string, string)
+  fullName.vb: Booseapp.Interpreter.MoveToCommand.New(Booseapp.Interpreter.ExpressionEvaluator, Booseapp.AppCanvas, String, String)
+  nameWithType: MoveToCommand.MoveToCommand(ExpressionEvaluator, AppCanvas, string, string)
+  nameWithType.vb: MoveToCommand.New(ExpressionEvaluator, AppCanvas, String, String)
+- uid: Booseapp.Interpreter.MoveToCommand.#ctor*
+  name: MoveToCommand
+  href: api/Booseapp.Interpreter.MoveToCommand.html#Booseapp_Interpreter_MoveToCommand__ctor_
+  commentId: Overload:Booseapp.Interpreter.MoveToCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.Interpreter.MoveToCommand.MoveToCommand
+  fullName.vb: Booseapp.Interpreter.MoveToCommand.New
+  nameWithType: MoveToCommand.MoveToCommand
+  nameWithType.vb: MoveToCommand.New
+- uid: Booseapp.Interpreter.MoveToCommand.Execute
+  name: Execute()
+  href: api/Booseapp.Interpreter.MoveToCommand.html#Booseapp_Interpreter_MoveToCommand_Execute
+  commentId: M:Booseapp.Interpreter.MoveToCommand.Execute
+  fullName: Booseapp.Interpreter.MoveToCommand.Execute()
+  nameWithType: MoveToCommand.Execute()
+- uid: Booseapp.Interpreter.MoveToCommand.Execute*
+  name: Execute
+  href: api/Booseapp.Interpreter.MoveToCommand.html#Booseapp_Interpreter_MoveToCommand_Execute_
+  commentId: Overload:Booseapp.Interpreter.MoveToCommand.Execute
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.MoveToCommand.Execute
+  nameWithType: MoveToCommand.Execute
+- uid: Booseapp.Interpreter.PeekCommand
+  name: PeekCommand
+  href: api/Booseapp.Interpreter.PeekCommand.html
+  commentId: T:Booseapp.Interpreter.PeekCommand
+  fullName: Booseapp.Interpreter.PeekCommand
+  nameWithType: PeekCommand
+- uid: Booseapp.Interpreter.PeekCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,System.String,System.String,System.String)
+  name: PeekCommand(ExpressionEvaluator, string, string, string)
+  href: api/Booseapp.Interpreter.PeekCommand.html#Booseapp_Interpreter_PeekCommand__ctor_Booseapp_Interpreter_ExpressionEvaluator_System_String_System_String_System_String_
+  commentId: M:Booseapp.Interpreter.PeekCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,System.String,System.String,System.String)
+  name.vb: New(ExpressionEvaluator, String, String, String)
+  fullName: Booseapp.Interpreter.PeekCommand.PeekCommand(Booseapp.Interpreter.ExpressionEvaluator, string, string, string)
+  fullName.vb: Booseapp.Interpreter.PeekCommand.New(Booseapp.Interpreter.ExpressionEvaluator, String, String, String)
+  nameWithType: PeekCommand.PeekCommand(ExpressionEvaluator, string, string, string)
+  nameWithType.vb: PeekCommand.New(ExpressionEvaluator, String, String, String)
+- uid: Booseapp.Interpreter.PeekCommand.#ctor*
+  name: PeekCommand
+  href: api/Booseapp.Interpreter.PeekCommand.html#Booseapp_Interpreter_PeekCommand__ctor_
+  commentId: Overload:Booseapp.Interpreter.PeekCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.Interpreter.PeekCommand.PeekCommand
+  fullName.vb: Booseapp.Interpreter.PeekCommand.New
+  nameWithType: PeekCommand.PeekCommand
+  nameWithType.vb: PeekCommand.New
+- uid: Booseapp.Interpreter.PeekCommand.Execute
+  name: Execute()
+  href: api/Booseapp.Interpreter.PeekCommand.html#Booseapp_Interpreter_PeekCommand_Execute
+  commentId: M:Booseapp.Interpreter.PeekCommand.Execute
+  fullName: Booseapp.Interpreter.PeekCommand.Execute()
+  nameWithType: PeekCommand.Execute()
+- uid: Booseapp.Interpreter.PeekCommand.Execute*
+  name: Execute
+  href: api/Booseapp.Interpreter.PeekCommand.html#Booseapp_Interpreter_PeekCommand_Execute_
+  commentId: Overload:Booseapp.Interpreter.PeekCommand.Execute
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.PeekCommand.Execute
+  nameWithType: PeekCommand.Execute
+- uid: Booseapp.Interpreter.PenCommand
+  name: PenCommand
+  href: api/Booseapp.Interpreter.PenCommand.html
+  commentId: T:Booseapp.Interpreter.PenCommand
+  fullName: Booseapp.Interpreter.PenCommand
+  nameWithType: PenCommand
+- uid: Booseapp.Interpreter.PenCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,Booseapp.AppCanvas,System.String,System.String,System.String)
+  name: PenCommand(ExpressionEvaluator, AppCanvas, string, string, string)
+  href: api/Booseapp.Interpreter.PenCommand.html#Booseapp_Interpreter_PenCommand__ctor_Booseapp_Interpreter_ExpressionEvaluator_Booseapp_AppCanvas_System_String_System_String_System_String_
+  commentId: M:Booseapp.Interpreter.PenCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,Booseapp.AppCanvas,System.String,System.String,System.String)
+  name.vb: New(ExpressionEvaluator, AppCanvas, String, String, String)
+  fullName: Booseapp.Interpreter.PenCommand.PenCommand(Booseapp.Interpreter.ExpressionEvaluator, Booseapp.AppCanvas, string, string, string)
+  fullName.vb: Booseapp.Interpreter.PenCommand.New(Booseapp.Interpreter.ExpressionEvaluator, Booseapp.AppCanvas, String, String, String)
+  nameWithType: PenCommand.PenCommand(ExpressionEvaluator, AppCanvas, string, string, string)
+  nameWithType.vb: PenCommand.New(ExpressionEvaluator, AppCanvas, String, String, String)
+- uid: Booseapp.Interpreter.PenCommand.#ctor*
+  name: PenCommand
+  href: api/Booseapp.Interpreter.PenCommand.html#Booseapp_Interpreter_PenCommand__ctor_
+  commentId: Overload:Booseapp.Interpreter.PenCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.Interpreter.PenCommand.PenCommand
+  fullName.vb: Booseapp.Interpreter.PenCommand.New
+  nameWithType: PenCommand.PenCommand
+  nameWithType.vb: PenCommand.New
+- uid: Booseapp.Interpreter.PenCommand.Execute
+  name: Execute()
+  href: api/Booseapp.Interpreter.PenCommand.html#Booseapp_Interpreter_PenCommand_Execute
+  commentId: M:Booseapp.Interpreter.PenCommand.Execute
+  fullName: Booseapp.Interpreter.PenCommand.Execute()
+  nameWithType: PenCommand.Execute()
+- uid: Booseapp.Interpreter.PenCommand.Execute*
+  name: Execute
+  href: api/Booseapp.Interpreter.PenCommand.html#Booseapp_Interpreter_PenCommand_Execute_
+  commentId: Overload:Booseapp.Interpreter.PenCommand.Execute
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.PenCommand.Execute
+  nameWithType: PenCommand.Execute
+- uid: Booseapp.Interpreter.PokeCommand
+  name: PokeCommand
+  href: api/Booseapp.Interpreter.PokeCommand.html
+  commentId: T:Booseapp.Interpreter.PokeCommand
+  fullName: Booseapp.Interpreter.PokeCommand
+  nameWithType: PokeCommand
+- uid: Booseapp.Interpreter.PokeCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,System.String,System.String,System.String)
+  name: PokeCommand(ExpressionEvaluator, string, string, string)
+  href: api/Booseapp.Interpreter.PokeCommand.html#Booseapp_Interpreter_PokeCommand__ctor_Booseapp_Interpreter_ExpressionEvaluator_System_String_System_String_System_String_
+  commentId: M:Booseapp.Interpreter.PokeCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,System.String,System.String,System.String)
+  name.vb: New(ExpressionEvaluator, String, String, String)
+  fullName: Booseapp.Interpreter.PokeCommand.PokeCommand(Booseapp.Interpreter.ExpressionEvaluator, string, string, string)
+  fullName.vb: Booseapp.Interpreter.PokeCommand.New(Booseapp.Interpreter.ExpressionEvaluator, String, String, String)
+  nameWithType: PokeCommand.PokeCommand(ExpressionEvaluator, string, string, string)
+  nameWithType.vb: PokeCommand.New(ExpressionEvaluator, String, String, String)
+- uid: Booseapp.Interpreter.PokeCommand.#ctor*
+  name: PokeCommand
+  href: api/Booseapp.Interpreter.PokeCommand.html#Booseapp_Interpreter_PokeCommand__ctor_
+  commentId: Overload:Booseapp.Interpreter.PokeCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.Interpreter.PokeCommand.PokeCommand
+  fullName.vb: Booseapp.Interpreter.PokeCommand.New
+  nameWithType: PokeCommand.PokeCommand
+  nameWithType.vb: PokeCommand.New
+- uid: Booseapp.Interpreter.PokeCommand.Execute
+  name: Execute()
+  href: api/Booseapp.Interpreter.PokeCommand.html#Booseapp_Interpreter_PokeCommand_Execute
+  commentId: M:Booseapp.Interpreter.PokeCommand.Execute
+  fullName: Booseapp.Interpreter.PokeCommand.Execute()
+  nameWithType: PokeCommand.Execute()
+- uid: Booseapp.Interpreter.PokeCommand.Execute*
+  name: Execute
+  href: api/Booseapp.Interpreter.PokeCommand.html#Booseapp_Interpreter_PokeCommand_Execute_
+  commentId: Overload:Booseapp.Interpreter.PokeCommand.Execute
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.PokeCommand.Execute
+  nameWithType: PokeCommand.Execute
+- uid: Booseapp.Interpreter.RealDeclarationCommand
+  name: RealDeclarationCommand
+  href: api/Booseapp.Interpreter.RealDeclarationCommand.html
+  commentId: T:Booseapp.Interpreter.RealDeclarationCommand
+  fullName: Booseapp.Interpreter.RealDeclarationCommand
+  nameWithType: RealDeclarationCommand
+- uid: Booseapp.Interpreter.RealDeclarationCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,System.String,System.String)
+  name: RealDeclarationCommand(ExpressionEvaluator, string, string?)
+  href: api/Booseapp.Interpreter.RealDeclarationCommand.html#Booseapp_Interpreter_RealDeclarationCommand__ctor_Booseapp_Interpreter_ExpressionEvaluator_System_String_System_String_
+  commentId: M:Booseapp.Interpreter.RealDeclarationCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,System.String,System.String)
+  name.vb: New(ExpressionEvaluator, String, String)
+  fullName: Booseapp.Interpreter.RealDeclarationCommand.RealDeclarationCommand(Booseapp.Interpreter.ExpressionEvaluator, string, string?)
+  fullName.vb: Booseapp.Interpreter.RealDeclarationCommand.New(Booseapp.Interpreter.ExpressionEvaluator, String, String)
+  nameWithType: RealDeclarationCommand.RealDeclarationCommand(ExpressionEvaluator, string, string?)
+  nameWithType.vb: RealDeclarationCommand.New(ExpressionEvaluator, String, String)
+- uid: Booseapp.Interpreter.RealDeclarationCommand.#ctor*
+  name: RealDeclarationCommand
+  href: api/Booseapp.Interpreter.RealDeclarationCommand.html#Booseapp_Interpreter_RealDeclarationCommand__ctor_
+  commentId: Overload:Booseapp.Interpreter.RealDeclarationCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.Interpreter.RealDeclarationCommand.RealDeclarationCommand
+  fullName.vb: Booseapp.Interpreter.RealDeclarationCommand.New
+  nameWithType: RealDeclarationCommand.RealDeclarationCommand
+  nameWithType.vb: RealDeclarationCommand.New
+- uid: Booseapp.Interpreter.RealDeclarationCommand.Execute
+  name: Execute()
+  href: api/Booseapp.Interpreter.RealDeclarationCommand.html#Booseapp_Interpreter_RealDeclarationCommand_Execute
+  commentId: M:Booseapp.Interpreter.RealDeclarationCommand.Execute
+  fullName: Booseapp.Interpreter.RealDeclarationCommand.Execute()
+  nameWithType: RealDeclarationCommand.Execute()
+- uid: Booseapp.Interpreter.RealDeclarationCommand.Execute*
+  name: Execute
+  href: api/Booseapp.Interpreter.RealDeclarationCommand.html#Booseapp_Interpreter_RealDeclarationCommand_Execute_
+  commentId: Overload:Booseapp.Interpreter.RealDeclarationCommand.Execute
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.RealDeclarationCommand.Execute
+  nameWithType: RealDeclarationCommand.Execute
+- uid: Booseapp.Interpreter.RectCommand
+  name: RectCommand
+  href: api/Booseapp.Interpreter.RectCommand.html
+  commentId: T:Booseapp.Interpreter.RectCommand
+  fullName: Booseapp.Interpreter.RectCommand
+  nameWithType: RectCommand
+- uid: Booseapp.Interpreter.RectCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,Booseapp.AppCanvas,System.String,System.String)
+  name: RectCommand(ExpressionEvaluator, AppCanvas, string, string)
+  href: api/Booseapp.Interpreter.RectCommand.html#Booseapp_Interpreter_RectCommand__ctor_Booseapp_Interpreter_ExpressionEvaluator_Booseapp_AppCanvas_System_String_System_String_
+  commentId: M:Booseapp.Interpreter.RectCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,Booseapp.AppCanvas,System.String,System.String)
+  name.vb: New(ExpressionEvaluator, AppCanvas, String, String)
+  fullName: Booseapp.Interpreter.RectCommand.RectCommand(Booseapp.Interpreter.ExpressionEvaluator, Booseapp.AppCanvas, string, string)
+  fullName.vb: Booseapp.Interpreter.RectCommand.New(Booseapp.Interpreter.ExpressionEvaluator, Booseapp.AppCanvas, String, String)
+  nameWithType: RectCommand.RectCommand(ExpressionEvaluator, AppCanvas, string, string)
+  nameWithType.vb: RectCommand.New(ExpressionEvaluator, AppCanvas, String, String)
+- uid: Booseapp.Interpreter.RectCommand.#ctor*
+  name: RectCommand
+  href: api/Booseapp.Interpreter.RectCommand.html#Booseapp_Interpreter_RectCommand__ctor_
+  commentId: Overload:Booseapp.Interpreter.RectCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.Interpreter.RectCommand.RectCommand
+  fullName.vb: Booseapp.Interpreter.RectCommand.New
+  nameWithType: RectCommand.RectCommand
+  nameWithType.vb: RectCommand.New
+- uid: Booseapp.Interpreter.RectCommand.Execute
+  name: Execute()
+  href: api/Booseapp.Interpreter.RectCommand.html#Booseapp_Interpreter_RectCommand_Execute
+  commentId: M:Booseapp.Interpreter.RectCommand.Execute
+  fullName: Booseapp.Interpreter.RectCommand.Execute()
+  nameWithType: RectCommand.Execute()
+- uid: Booseapp.Interpreter.RectCommand.Execute*
+  name: Execute
+  href: api/Booseapp.Interpreter.RectCommand.html#Booseapp_Interpreter_RectCommand_Execute_
+  commentId: Overload:Booseapp.Interpreter.RectCommand.Execute
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.RectCommand.Execute
+  nameWithType: RectCommand.Execute
+- uid: Booseapp.Interpreter.VariableStore
+  name: VariableStore
+  href: api/Booseapp.Interpreter.VariableStore.html
+  commentId: T:Booseapp.Interpreter.VariableStore
+  fullName: Booseapp.Interpreter.VariableStore
+  nameWithType: VariableStore
+- uid: Booseapp.Interpreter.VariableStore.Clear
+  name: Clear()
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_Clear
+  commentId: M:Booseapp.Interpreter.VariableStore.Clear
+  fullName: Booseapp.Interpreter.VariableStore.Clear()
+  nameWithType: VariableStore.Clear()
+- uid: Booseapp.Interpreter.VariableStore.Clear*
+  name: Clear
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_Clear_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.Clear
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.Clear
+  nameWithType: VariableStore.Clear
+- uid: Booseapp.Interpreter.VariableStore.DeclareBool(System.String,System.Boolean)
+  name: DeclareBool(string, bool)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_DeclareBool_System_String_System_Boolean_
+  commentId: M:Booseapp.Interpreter.VariableStore.DeclareBool(System.String,System.Boolean)
+  name.vb: DeclareBool(String, Boolean)
+  fullName: Booseapp.Interpreter.VariableStore.DeclareBool(string, bool)
+  fullName.vb: Booseapp.Interpreter.VariableStore.DeclareBool(String, Boolean)
+  nameWithType: VariableStore.DeclareBool(string, bool)
+  nameWithType.vb: VariableStore.DeclareBool(String, Boolean)
+- uid: Booseapp.Interpreter.VariableStore.DeclareBool*
+  name: DeclareBool
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_DeclareBool_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.DeclareBool
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.DeclareBool
+  nameWithType: VariableStore.DeclareBool
+- uid: Booseapp.Interpreter.VariableStore.DeclareInt(System.String,System.Int32)
+  name: DeclareInt(string, int)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_DeclareInt_System_String_System_Int32_
+  commentId: M:Booseapp.Interpreter.VariableStore.DeclareInt(System.String,System.Int32)
+  name.vb: DeclareInt(String, Integer)
+  fullName: Booseapp.Interpreter.VariableStore.DeclareInt(string, int)
+  fullName.vb: Booseapp.Interpreter.VariableStore.DeclareInt(String, Integer)
+  nameWithType: VariableStore.DeclareInt(string, int)
+  nameWithType.vb: VariableStore.DeclareInt(String, Integer)
+- uid: Booseapp.Interpreter.VariableStore.DeclareInt*
+  name: DeclareInt
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_DeclareInt_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.DeclareInt
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.DeclareInt
+  nameWithType: VariableStore.DeclareInt
+- uid: Booseapp.Interpreter.VariableStore.DeclareIntArray(System.String,System.Int32)
+  name: DeclareIntArray(string, int)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_DeclareIntArray_System_String_System_Int32_
+  commentId: M:Booseapp.Interpreter.VariableStore.DeclareIntArray(System.String,System.Int32)
+  name.vb: DeclareIntArray(String, Integer)
+  fullName: Booseapp.Interpreter.VariableStore.DeclareIntArray(string, int)
+  fullName.vb: Booseapp.Interpreter.VariableStore.DeclareIntArray(String, Integer)
+  nameWithType: VariableStore.DeclareIntArray(string, int)
+  nameWithType.vb: VariableStore.DeclareIntArray(String, Integer)
+- uid: Booseapp.Interpreter.VariableStore.DeclareIntArray*
+  name: DeclareIntArray
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_DeclareIntArray_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.DeclareIntArray
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.DeclareIntArray
+  nameWithType: VariableStore.DeclareIntArray
+- uid: Booseapp.Interpreter.VariableStore.DeclareReal(System.String,System.Double)
+  name: DeclareReal(string, double)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_DeclareReal_System_String_System_Double_
+  commentId: M:Booseapp.Interpreter.VariableStore.DeclareReal(System.String,System.Double)
+  name.vb: DeclareReal(String, Double)
+  fullName: Booseapp.Interpreter.VariableStore.DeclareReal(string, double)
+  fullName.vb: Booseapp.Interpreter.VariableStore.DeclareReal(String, Double)
+  nameWithType: VariableStore.DeclareReal(string, double)
+  nameWithType.vb: VariableStore.DeclareReal(String, Double)
+- uid: Booseapp.Interpreter.VariableStore.DeclareReal*
+  name: DeclareReal
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_DeclareReal_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.DeclareReal
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.DeclareReal
+  nameWithType: VariableStore.DeclareReal
+- uid: Booseapp.Interpreter.VariableStore.DeclareRealArray(System.String,System.Int32)
+  name: DeclareRealArray(string, int)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_DeclareRealArray_System_String_System_Int32_
+  commentId: M:Booseapp.Interpreter.VariableStore.DeclareRealArray(System.String,System.Int32)
+  name.vb: DeclareRealArray(String, Integer)
+  fullName: Booseapp.Interpreter.VariableStore.DeclareRealArray(string, int)
+  fullName.vb: Booseapp.Interpreter.VariableStore.DeclareRealArray(String, Integer)
+  nameWithType: VariableStore.DeclareRealArray(string, int)
+  nameWithType.vb: VariableStore.DeclareRealArray(String, Integer)
+- uid: Booseapp.Interpreter.VariableStore.DeclareRealArray*
+  name: DeclareRealArray
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_DeclareRealArray_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.DeclareRealArray
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.DeclareRealArray
+  nameWithType: VariableStore.DeclareRealArray
+- uid: Booseapp.Interpreter.VariableStore.EnterScope
+  name: EnterScope()
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_EnterScope
+  commentId: M:Booseapp.Interpreter.VariableStore.EnterScope
+  fullName: Booseapp.Interpreter.VariableStore.EnterScope()
+  nameWithType: VariableStore.EnterScope()
+- uid: Booseapp.Interpreter.VariableStore.EnterScope*
+  name: EnterScope
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_EnterScope_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.EnterScope
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.EnterScope
+  nameWithType: VariableStore.EnterScope
+- uid: Booseapp.Interpreter.VariableStore.ExitScope
+  name: ExitScope()
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_ExitScope
+  commentId: M:Booseapp.Interpreter.VariableStore.ExitScope
+  fullName: Booseapp.Interpreter.VariableStore.ExitScope()
+  nameWithType: VariableStore.ExitScope()
+- uid: Booseapp.Interpreter.VariableStore.ExitScope*
+  name: ExitScope
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_ExitScope_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.ExitScope
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.ExitScope
+  nameWithType: VariableStore.ExitScope
+- uid: Booseapp.Interpreter.VariableStore.GetBool(System.String)
+  name: GetBool(string)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_GetBool_System_String_
+  commentId: M:Booseapp.Interpreter.VariableStore.GetBool(System.String)
+  name.vb: GetBool(String)
+  fullName: Booseapp.Interpreter.VariableStore.GetBool(string)
+  fullName.vb: Booseapp.Interpreter.VariableStore.GetBool(String)
+  nameWithType: VariableStore.GetBool(string)
+  nameWithType.vb: VariableStore.GetBool(String)
+- uid: Booseapp.Interpreter.VariableStore.GetBool*
+  name: GetBool
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_GetBool_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.GetBool
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.GetBool
+  nameWithType: VariableStore.GetBool
+- uid: Booseapp.Interpreter.VariableStore.GetInt(System.String)
+  name: GetInt(string)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_GetInt_System_String_
+  commentId: M:Booseapp.Interpreter.VariableStore.GetInt(System.String)
+  name.vb: GetInt(String)
+  fullName: Booseapp.Interpreter.VariableStore.GetInt(string)
+  fullName.vb: Booseapp.Interpreter.VariableStore.GetInt(String)
+  nameWithType: VariableStore.GetInt(string)
+  nameWithType.vb: VariableStore.GetInt(String)
+- uid: Booseapp.Interpreter.VariableStore.GetInt*
+  name: GetInt
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_GetInt_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.GetInt
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.GetInt
+  nameWithType: VariableStore.GetInt
+- uid: Booseapp.Interpreter.VariableStore.GetNumber(System.String)
+  name: GetNumber(string)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_GetNumber_System_String_
+  commentId: M:Booseapp.Interpreter.VariableStore.GetNumber(System.String)
+  name.vb: GetNumber(String)
+  fullName: Booseapp.Interpreter.VariableStore.GetNumber(string)
+  fullName.vb: Booseapp.Interpreter.VariableStore.GetNumber(String)
+  nameWithType: VariableStore.GetNumber(string)
+  nameWithType.vb: VariableStore.GetNumber(String)
+- uid: Booseapp.Interpreter.VariableStore.GetNumber*
+  name: GetNumber
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_GetNumber_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.GetNumber
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.GetNumber
+  nameWithType: VariableStore.GetNumber
+- uid: Booseapp.Interpreter.VariableStore.GetReal(System.String)
+  name: GetReal(string)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_GetReal_System_String_
+  commentId: M:Booseapp.Interpreter.VariableStore.GetReal(System.String)
+  name.vb: GetReal(String)
+  fullName: Booseapp.Interpreter.VariableStore.GetReal(string)
+  fullName.vb: Booseapp.Interpreter.VariableStore.GetReal(String)
+  nameWithType: VariableStore.GetReal(string)
+  nameWithType.vb: VariableStore.GetReal(String)
+- uid: Booseapp.Interpreter.VariableStore.GetReal*
+  name: GetReal
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_GetReal_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.GetReal
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.GetReal
+  nameWithType: VariableStore.GetReal
+- uid: Booseapp.Interpreter.VariableStore.HasBool(System.String)
+  name: HasBool(string)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_HasBool_System_String_
+  commentId: M:Booseapp.Interpreter.VariableStore.HasBool(System.String)
+  name.vb: HasBool(String)
+  fullName: Booseapp.Interpreter.VariableStore.HasBool(string)
+  fullName.vb: Booseapp.Interpreter.VariableStore.HasBool(String)
+  nameWithType: VariableStore.HasBool(string)
+  nameWithType.vb: VariableStore.HasBool(String)
+- uid: Booseapp.Interpreter.VariableStore.HasBool*
+  name: HasBool
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_HasBool_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.HasBool
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.HasBool
+  nameWithType: VariableStore.HasBool
+- uid: Booseapp.Interpreter.VariableStore.HasInt(System.String)
+  name: HasInt(string)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_HasInt_System_String_
+  commentId: M:Booseapp.Interpreter.VariableStore.HasInt(System.String)
+  name.vb: HasInt(String)
+  fullName: Booseapp.Interpreter.VariableStore.HasInt(string)
+  fullName.vb: Booseapp.Interpreter.VariableStore.HasInt(String)
+  nameWithType: VariableStore.HasInt(string)
+  nameWithType.vb: VariableStore.HasInt(String)
+- uid: Booseapp.Interpreter.VariableStore.HasInt*
+  name: HasInt
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_HasInt_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.HasInt
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.HasInt
+  nameWithType: VariableStore.HasInt
+- uid: Booseapp.Interpreter.VariableStore.HasReal(System.String)
+  name: HasReal(string)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_HasReal_System_String_
+  commentId: M:Booseapp.Interpreter.VariableStore.HasReal(System.String)
+  name.vb: HasReal(String)
+  fullName: Booseapp.Interpreter.VariableStore.HasReal(string)
+  fullName.vb: Booseapp.Interpreter.VariableStore.HasReal(String)
+  nameWithType: VariableStore.HasReal(string)
+  nameWithType.vb: VariableStore.HasReal(String)
+- uid: Booseapp.Interpreter.VariableStore.HasReal*
+  name: HasReal
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_HasReal_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.HasReal
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.HasReal
+  nameWithType: VariableStore.HasReal
+- uid: Booseapp.Interpreter.VariableStore.Instance
+  name: Instance
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_Instance
+  commentId: P:Booseapp.Interpreter.VariableStore.Instance
+  fullName: Booseapp.Interpreter.VariableStore.Instance
+  nameWithType: VariableStore.Instance
+- uid: Booseapp.Interpreter.VariableStore.Instance*
+  name: Instance
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_Instance_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.Instance
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.Instance
+  nameWithType: VariableStore.Instance
+- uid: Booseapp.Interpreter.VariableStore.PeekIntArray(System.String,System.Int32)
+  name: PeekIntArray(string, int)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_PeekIntArray_System_String_System_Int32_
+  commentId: M:Booseapp.Interpreter.VariableStore.PeekIntArray(System.String,System.Int32)
+  name.vb: PeekIntArray(String, Integer)
+  fullName: Booseapp.Interpreter.VariableStore.PeekIntArray(string, int)
+  fullName.vb: Booseapp.Interpreter.VariableStore.PeekIntArray(String, Integer)
+  nameWithType: VariableStore.PeekIntArray(string, int)
+  nameWithType.vb: VariableStore.PeekIntArray(String, Integer)
+- uid: Booseapp.Interpreter.VariableStore.PeekIntArray*
+  name: PeekIntArray
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_PeekIntArray_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.PeekIntArray
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.PeekIntArray
+  nameWithType: VariableStore.PeekIntArray
+- uid: Booseapp.Interpreter.VariableStore.PeekRealArray(System.String,System.Int32)
+  name: PeekRealArray(string, int)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_PeekRealArray_System_String_System_Int32_
+  commentId: M:Booseapp.Interpreter.VariableStore.PeekRealArray(System.String,System.Int32)
+  name.vb: PeekRealArray(String, Integer)
+  fullName: Booseapp.Interpreter.VariableStore.PeekRealArray(string, int)
+  fullName.vb: Booseapp.Interpreter.VariableStore.PeekRealArray(String, Integer)
+  nameWithType: VariableStore.PeekRealArray(string, int)
+  nameWithType.vb: VariableStore.PeekRealArray(String, Integer)
+- uid: Booseapp.Interpreter.VariableStore.PeekRealArray*
+  name: PeekRealArray
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_PeekRealArray_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.PeekRealArray
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.PeekRealArray
+  nameWithType: VariableStore.PeekRealArray
+- uid: Booseapp.Interpreter.VariableStore.PokeIntArray(System.String,System.Int32,System.Int32)
+  name: PokeIntArray(string, int, int)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_PokeIntArray_System_String_System_Int32_System_Int32_
+  commentId: M:Booseapp.Interpreter.VariableStore.PokeIntArray(System.String,System.Int32,System.Int32)
+  name.vb: PokeIntArray(String, Integer, Integer)
+  fullName: Booseapp.Interpreter.VariableStore.PokeIntArray(string, int, int)
+  fullName.vb: Booseapp.Interpreter.VariableStore.PokeIntArray(String, Integer, Integer)
+  nameWithType: VariableStore.PokeIntArray(string, int, int)
+  nameWithType.vb: VariableStore.PokeIntArray(String, Integer, Integer)
+- uid: Booseapp.Interpreter.VariableStore.PokeIntArray*
+  name: PokeIntArray
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_PokeIntArray_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.PokeIntArray
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.PokeIntArray
+  nameWithType: VariableStore.PokeIntArray
+- uid: Booseapp.Interpreter.VariableStore.PokeRealArray(System.String,System.Int32,System.Double)
+  name: PokeRealArray(string, int, double)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_PokeRealArray_System_String_System_Int32_System_Double_
+  commentId: M:Booseapp.Interpreter.VariableStore.PokeRealArray(System.String,System.Int32,System.Double)
+  name.vb: PokeRealArray(String, Integer, Double)
+  fullName: Booseapp.Interpreter.VariableStore.PokeRealArray(string, int, double)
+  fullName.vb: Booseapp.Interpreter.VariableStore.PokeRealArray(String, Integer, Double)
+  nameWithType: VariableStore.PokeRealArray(string, int, double)
+  nameWithType.vb: VariableStore.PokeRealArray(String, Integer, Double)
+- uid: Booseapp.Interpreter.VariableStore.PokeRealArray*
+  name: PokeRealArray
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_PokeRealArray_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.PokeRealArray
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.PokeRealArray
+  nameWithType: VariableStore.PokeRealArray
+- uid: Booseapp.Interpreter.VariableStore.SetBool(System.String,System.Boolean)
+  name: SetBool(string, bool)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_SetBool_System_String_System_Boolean_
+  commentId: M:Booseapp.Interpreter.VariableStore.SetBool(System.String,System.Boolean)
+  name.vb: SetBool(String, Boolean)
+  fullName: Booseapp.Interpreter.VariableStore.SetBool(string, bool)
+  fullName.vb: Booseapp.Interpreter.VariableStore.SetBool(String, Boolean)
+  nameWithType: VariableStore.SetBool(string, bool)
+  nameWithType.vb: VariableStore.SetBool(String, Boolean)
+- uid: Booseapp.Interpreter.VariableStore.SetBool*
+  name: SetBool
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_SetBool_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.SetBool
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.SetBool
+  nameWithType: VariableStore.SetBool
+- uid: Booseapp.Interpreter.VariableStore.SetInt(System.String,System.Int32)
+  name: SetInt(string, int)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_SetInt_System_String_System_Int32_
+  commentId: M:Booseapp.Interpreter.VariableStore.SetInt(System.String,System.Int32)
+  name.vb: SetInt(String, Integer)
+  fullName: Booseapp.Interpreter.VariableStore.SetInt(string, int)
+  fullName.vb: Booseapp.Interpreter.VariableStore.SetInt(String, Integer)
+  nameWithType: VariableStore.SetInt(string, int)
+  nameWithType.vb: VariableStore.SetInt(String, Integer)
+- uid: Booseapp.Interpreter.VariableStore.SetInt*
+  name: SetInt
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_SetInt_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.SetInt
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.SetInt
+  nameWithType: VariableStore.SetInt
+- uid: Booseapp.Interpreter.VariableStore.SetReal(System.String,System.Double)
+  name: SetReal(string, double)
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_SetReal_System_String_System_Double_
+  commentId: M:Booseapp.Interpreter.VariableStore.SetReal(System.String,System.Double)
+  name.vb: SetReal(String, Double)
+  fullName: Booseapp.Interpreter.VariableStore.SetReal(string, double)
+  fullName.vb: Booseapp.Interpreter.VariableStore.SetReal(String, Double)
+  nameWithType: VariableStore.SetReal(string, double)
+  nameWithType.vb: VariableStore.SetReal(String, Double)
+- uid: Booseapp.Interpreter.VariableStore.SetReal*
+  name: SetReal
+  href: api/Booseapp.Interpreter.VariableStore.html#Booseapp_Interpreter_VariableStore_SetReal_
+  commentId: Overload:Booseapp.Interpreter.VariableStore.SetReal
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.VariableStore.SetReal
+  nameWithType: VariableStore.SetReal
+- uid: Booseapp.Interpreter.WriteCommand
+  name: WriteCommand
+  href: api/Booseapp.Interpreter.WriteCommand.html
+  commentId: T:Booseapp.Interpreter.WriteCommand
+  fullName: Booseapp.Interpreter.WriteCommand
+  nameWithType: WriteCommand
+- uid: Booseapp.Interpreter.WriteCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,Booseapp.AppCanvas,System.String)
+  name: WriteCommand(ExpressionEvaluator, AppCanvas, string)
+  href: api/Booseapp.Interpreter.WriteCommand.html#Booseapp_Interpreter_WriteCommand__ctor_Booseapp_Interpreter_ExpressionEvaluator_Booseapp_AppCanvas_System_String_
+  commentId: M:Booseapp.Interpreter.WriteCommand.#ctor(Booseapp.Interpreter.ExpressionEvaluator,Booseapp.AppCanvas,System.String)
+  name.vb: New(ExpressionEvaluator, AppCanvas, String)
+  fullName: Booseapp.Interpreter.WriteCommand.WriteCommand(Booseapp.Interpreter.ExpressionEvaluator, Booseapp.AppCanvas, string)
+  fullName.vb: Booseapp.Interpreter.WriteCommand.New(Booseapp.Interpreter.ExpressionEvaluator, Booseapp.AppCanvas, String)
+  nameWithType: WriteCommand.WriteCommand(ExpressionEvaluator, AppCanvas, string)
+  nameWithType.vb: WriteCommand.New(ExpressionEvaluator, AppCanvas, String)
+- uid: Booseapp.Interpreter.WriteCommand.#ctor*
+  name: WriteCommand
+  href: api/Booseapp.Interpreter.WriteCommand.html#Booseapp_Interpreter_WriteCommand__ctor_
+  commentId: Overload:Booseapp.Interpreter.WriteCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Booseapp.Interpreter.WriteCommand.WriteCommand
+  fullName.vb: Booseapp.Interpreter.WriteCommand.New
+  nameWithType: WriteCommand.WriteCommand
+  nameWithType.vb: WriteCommand.New
+- uid: Booseapp.Interpreter.WriteCommand.Execute
+  name: Execute()
+  href: api/Booseapp.Interpreter.WriteCommand.html#Booseapp_Interpreter_WriteCommand_Execute
+  commentId: M:Booseapp.Interpreter.WriteCommand.Execute
+  fullName: Booseapp.Interpreter.WriteCommand.Execute()
+  nameWithType: WriteCommand.Execute()
+- uid: Booseapp.Interpreter.WriteCommand.Execute*
+  name: Execute
+  href: api/Booseapp.Interpreter.WriteCommand.html#Booseapp_Interpreter_WriteCommand_Execute_
+  commentId: Overload:Booseapp.Interpreter.WriteCommand.Execute
+  isSpec: "True"
+  fullName: Booseapp.Interpreter.WriteCommand.Execute
+  nameWithType: WriteCommand.Execute
